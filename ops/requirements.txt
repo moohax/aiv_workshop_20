@@ -1,0 +1,5 @@
+tensorflow
+numpy
+tqdm
+pickle
+scikit-learn
